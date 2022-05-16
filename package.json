@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.3.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "pwa_website",
+  "description": "",
+  "version": "1.0.0",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaishnavik19/PWA_Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaishnavik19/PWA_Website/issues"
+  },
+  "homepage": "https://github.com/Vaishnavik19/PWA_Website#readme"
+}
